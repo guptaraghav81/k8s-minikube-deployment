@@ -105,7 +105,7 @@ spec:
 6.Logs & Troubleshooting using kubectl describe
 
 
-🏆 Learning Outcome
+🏆 Learning Outcome <br>
 1.By completing this project, you will:
 
 2.Understand how Kubernetes deployments work.
